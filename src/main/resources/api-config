@@ -1,0 +1,7 @@
+{
+    "CANADA" : {
+        store : "LocalStore",
+        isCacheStore : "true"
+    }
+
+}
